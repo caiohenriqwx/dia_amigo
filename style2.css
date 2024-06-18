@@ -1,0 +1,14 @@
+body {
+    background-image: url(imagens/gradiente.jpg);
+    background-size: cover;
+}
+
+.nós img {
+    border-radius: 25%;
+    padding: 25px;
+    margin-left: 70px;
+}
+
+video {
+    margin-left: 500px;
+}
